@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/move_empty.png</file>
+        <file>resources/move_empty_hover.png</file>
+        <file>resources/move_piece.png</file>
+        <file>resources/move_selected.png</file>
+        <file>resources/check.png</file>
+        <file>resources/last_move.png</file>
+        <file>resources/empty.png</file>
+        <file>resources/random_king.png</file>
+        <file>resources/icons/chess_material.ico</file>
+        <file>resources/king_black.png</file>
+        <file>resources/king_white.png</file>
+        <file>resources/normal_black.png</file>
+        <file>resources/normal_white.png</file>
+        <file>resources/dark_oak.jpg</file>
+        <file>resources/white_oak.jpg</file>
+        <file>resources/black_king.png</file>
+        <file>resources/white_king.png</file>
+        <file>resources/sound/break.mp3</file>
+        <file>resources/sound/connect.wav</file>
+        <file>resources/sound/draw.mp3</file>
+        <file>resources/sound/lost.mp3</file>
+        <file>resources/sound/move_black.mp3</file>
+        <file>resources/sound/move_white.mp3</file>
+        <file>resources/sound/new.mp3</file>
+        <file>resources/sound/win.mp3</file>
+    </qresource>
+</RCC>
